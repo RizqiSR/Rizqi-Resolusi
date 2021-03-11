@@ -2,5 +2,4 @@ RIZQI RESOLUSI
 - Konsisten Belajar Programming Sampai Bisa
 - Konsisten Praktik Sampai Bisa
 - Membuat Proyek Website Sederhana untuk Katering Sebelum Kursus Selesai
-- Setiap Tugas Mendapatkan Nilai di atas 70%
-- Menyelesaikan Kursus dengan Baik dan Benar
+- Melanjutkan Kursus Javascript
